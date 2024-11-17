@@ -1,0 +1,2 @@
+# PasswordManager
+本地化存储账号密码，基于国密SM4算法，密码数据加密存储在本地sqlite数据库中
